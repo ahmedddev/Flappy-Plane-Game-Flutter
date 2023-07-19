@@ -1,6 +1,6 @@
 # flappy_plane
 
-My new Flutter project.
+Flappy Plane Game made in flutter.
 
 
 
